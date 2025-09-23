@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
 <h3 align="center">Learning Machine Learning, Deep Learning, Natural Language Processing, Neural Network, Data Science, Data Analysis</h3>
 
-- 🔭 I’m currently working on **EEG Foundational Model**
+- 🔭 I’m currently working on **Cognitive Model with HPC**
 
 - 🌱 I’m currently learning **EEG Analysis, Machine Learning, Deep Learning,**
 
