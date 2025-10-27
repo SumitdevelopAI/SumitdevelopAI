@@ -19,12 +19,12 @@
 
 <h3 align="left">💡 Research Interests</h3>
 
-- Cognitive Intelligence Systems and AI Cognition  
-- Technical AI Safety & Mechanistic Interpretability  
-- High-Performance Cognitive Computing (HPC & CUDA)  
-- Chain-of-Thought Reasoning and Oversight  
-- Cognitive Modeling and Mental Health AI  
-- Human-AI Collaboration and Ethical Reasoning  
+- 🧠 **Cognitive Intelligence Systems & AI Cognition**  
+- 🧩 **Technical AI Safety & Mechanistic Interpretability**  
+- 🤖 **Robotics Intelligence Systems (6-DOF, Cognitive Robotics, and Sensor Fusion)**  
+- ⚙️ **High-Performance Cognitive Computing (HPC, CUDA, and Parallel Simulation)**  
+- 🧬 **Human-AI Reasoning, Ethical Oversight, and Cognitive Transparency**  
+- 🌍 **AI for Mental Health, Education, and Cognitive Well-being**
 
 ---
 
