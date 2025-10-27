@@ -1,32 +1,30 @@
 <h1 align="center">👋 Hi, I'm Sumit Sharma</h1>
-<h3 align="center">Building Safe and Transparent Cognitive Intelligence Systems | AI Safety & Cognitive Modeling Researcher</h3>
+<h3 align="center">Young Researcher in Cognitive Intelligence Systems | AI Safety | High-Performance Cognitive Computing</h3>
 
-- 🔭 I’m currently working on **Cognitive Intelligence Systems** and developing a **Cognitive Assistant for Student Mental Health** using architectures like **ACT-R** and **SOAR**.  
-- 🌱 I’m exploring **AI Safety**, **Cognitive Modeling**, **EEG Signal Analysis**, and **Chain-of-Thought Monitorability in Reasoning Models**.  
-- 💡 My research focuses on **Cognitive Transparency**, **Mechanistic Interpretability**, and **Bias Control** in reasoning-based AI systems.  
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing, and Cognitive Architectures**.  
+- 🔭 I’m currently developing **Cognitive Intelligence Systems** that combine **AI Safety**, **Cognitive Modeling**, and **Human-AI Reasoning Transparency**.  
+- 🧠 My ongoing work includes a **Cognitive Assistant for Student Mental Health** using architectures such as **ACT-R** and **SOAR**, and a **Chain-of-Thought Monitorability Framework (CoT-MF)** to ensure safe reasoning in AI systems.  
+- ⚙️ I specialize in **High-Performance Computing (HPC)** and **CUDA programming** for scalable deep learning, cognitive simulations, and reasoning analysis.  
+- 🌱 Currently exploring **Mechanistic Interpretability**, **Cognitive Transparency**, and **Alignment Theory** in large reasoning models.  
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Cognitive AI, or AI Safety Frameworks**.  
 - 📫 Reach me at **sumit336sharma@gmail.com**
 
 ---
 
-<h3 align="left">🧠 Current Research & Projects</h3>
+<h3 align="left">🧩 Current Research & Projects</h3>
 
-- **Cognitive Assistant for Student Mental Health** – under development  
-  Developing a cognition-based AI system that understands student intent, emotion, and context to recommend personalized content (music, books, quotes, stories) for mental well-being.
-
-- **Chain-of-Thought Monitorability Framework (CoT-MF)**  
-  Researching oversight mechanisms for large reasoning models to ensure faithfulness, interpretability, and ethical alignment.  
-  Introducing two evaluation metrics: **CoT Faithfulness Index (CFI)** and **Reasoning Integrity Metric (RIM)**.
+- **Cognitive Assistant for Student Mental Health** *(Under Development)*  
+  Building an adaptive AI system that understands student intent, emotional tone, and cognitive states. The assistant recommends personalized content—music, books, and stories—to improve mental well-being.  
 
 ---
 
-<h3 align="left">🌍 Research Interests</h3>
+<h3 align="left">💡 Research Interests</h3>
 
-- Cognitive Intelligence Systems  
-- Technical AI Safety & Alignment  
-- Cognitive Transparency and Mechanistic Interpretability  
-- Reasoning Oversight in Large Language Models  
-- Human-AI Interaction and Ethical Cognitive Computing  
+- Cognitive Intelligence Systems and AI Cognition  
+- Technical AI Safety & Mechanistic Interpretability  
+- High-Performance Cognitive Computing (HPC & CUDA)  
+- Chain-of-Thought Reasoning and Oversight  
+- Cognitive Modeling and Mental Health AI  
+- Human-AI Collaboration and Ethical Reasoning  
 
 ---
 
@@ -39,8 +37,9 @@
 
 ---
 
-<h3 align="left">🧰 Languages and Tools</h3>
+<h3 align="left">⚙️ Languages and Tools</h3>
 <p align="left">
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="cuda" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -62,4 +61,5 @@
 </p>
 
 ---
-<h3 align="center">🚀 Towards Safe, Transparent, and Cognitive AI</h3>
+
+<h3 align="center">🚀 Advancing Safe, Transparent, and Cognitive AI through Research and Computation</h3>
